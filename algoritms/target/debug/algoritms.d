@@ -1,0 +1,1 @@
+/Users/lukapuhlak/learn_rust/algoritms/target/debug/algoritms: /Users/lukapuhlak/learn_rust/algoritms/src/binsearch.rs /Users/lukapuhlak/learn_rust/algoritms/src/main.rs
