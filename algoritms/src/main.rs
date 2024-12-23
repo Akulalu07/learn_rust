@@ -1,4 +1,5 @@
 mod binsearch;
+mod sort;
 fn main() {
     let numbers = vec![1, 2, 3, 4, 5];
     let search_number = 3;
@@ -8,6 +9,4 @@ fn main() {
         Some(index) => println!("Found at index: {}", index),
         None => println!("Not found"),
     }
-
-
 }
