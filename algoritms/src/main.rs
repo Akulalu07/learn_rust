@@ -9,4 +9,8 @@ fn main() {
         Some(index) => println!("Found at index: {}", index),
         None => println!("Not found"),
     }
+    let mut numbers = vec![4,3,1,5,2];
+   sort::quick_sort(&mut numbers);
+    println!("{:?}",numbers);
+
 }
