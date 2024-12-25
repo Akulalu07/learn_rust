@@ -1,12 +1,31 @@
-pub fn quick_sort<T> (nums: &mut Vec<T>) {
-    if nums.len() <=2 {
+pub fn quick_sort<T: Ord + Clone>(nums: &mut Vec<T>) {
+    if nums.len() < 2 {
         return;
     }
-    let mid_ind = (nums.len()-1)>>1;
-    let mid = &nums[mid_ind];
-    let lesser : Vec<T> = Vec::new();
-    let bigger : Vec<T> = Vec::new();
 
+    let mid_index = nums.len() >>1 ;
+    let pivot = nums[mid_index].clone();
+
+    let mut lesser = Vec::new();
+    let mut greater = Vec::new();
+
+    for (i, &ref value) in nums.iter().enumerate() {
+        if i != mid_index {
+            if value <= &pivot {
+                lesser.push(value.clone());
+            } else {
+                greater.push(value.clone());
+            }
+        }
+    }
+
+    quick_sort(&mut lesser);
+    quick_sort(&mut greater);
+
+    nums.clear();
+    nums.extend(lesser);
+    nums.push(pivot);
+    nums.extend(greater);
 }
 
 
