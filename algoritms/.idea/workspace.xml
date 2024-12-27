@@ -9,13 +9,14 @@
   <component name="ChangeListManager">
     <list default="true" id="0ec6f76a-123f-4d78-be8f-a3264bd0fbe5" name="Changes" comment=" some start of sorting">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cargo.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Cargo.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cargo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/Cargo.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/binsearch.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/binsearch.rs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.rs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/sort.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/sort.rs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/.rustc_info.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/.rustc_info.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/debug/.fingerprint/algoritms-9d51a125ff47dbe1/dep-bin-algoritms" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/.fingerprint/algoritms-9d51a125ff47dbe1/dep-bin-algoritms" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/debug/algoritms" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/algoritms" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/debug/deps/algoritms-9d51a125ff47dbe1.5nv2r94nsmh9rdhr311olxw04.rcgu.o" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/deps/algoritms-9d51a125ff47dbe1.5nv2r94nsmh9rdhr311olxw04.rcgu.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/debug/deps/algoritms-9d51a125ff47dbe1.bfdhannef5ykfzjuovk7z8dhq.rcgu.o" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/deps/algoritms-9d51a125ff47dbe1.bfdhannef5ykfzjuovk7z8dhq.rcgu.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/algoritms.d" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/algoritms.d" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,7 +100,7 @@
     </configuration>
   </component>
   <component name="RustProjectSettings">
-    <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+    <option name="toolchainHomeDirectory" value="/snap/bin" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -114,6 +115,8 @@
       <workItem from="1734978544733" duration="4215000" />
       <workItem from="1735034786053" duration="5472000" />
       <workItem from="1735134589467" duration="7063000" />
+      <workItem from="1735212317506" duration="2296000" />
+      <workItem from="1735282590259" duration="739000" />
     </task>
     <task id="LOCAL-00001" summary=" some start of sorting">
       <option name="closed" value="true" />

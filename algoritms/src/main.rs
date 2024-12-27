@@ -1,7 +1,15 @@
 mod binsearch;
 mod sort;
+use time;
 
 fn main() {
+    let now = time::OffsetDateTime::now_local();
+    let now_time  = match now {
+        Ok(value) => value.date(),
+        Err(error) => panic!("Error happaned: {}!", error)
+    };
+    let now_utc = time::OffsetDateTime::now_utc().date();
+    println!("{} - {} = {}",now_time, now_utc ,now_time- now_utc);
     let numbers = vec![1, 2, 3, 4, 5];
     let search_number = 3;
     println!("Search number: {} in {:.?}", search_number,numbers );
