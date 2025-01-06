@@ -9,13 +9,69 @@
   <component name="ChangeListManager">
     <list default="true" id="0ec6f76a-123f-4d78-be8f-a3264bd0fbe5" name="Changes" comment=" some start of sorting">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cargo.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Cargo.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cargo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/Cargo.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/binsearch.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/binsearch.rs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.rs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/sort.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/sort.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/.rustc_info.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/.rustc_info.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/debug/.fingerprint/algoritms-9d51a125ff47dbe1/dep-bin-algoritms" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/.fingerprint/algoritms-9d51a125ff47dbe1/dep-bin-algoritms" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/debug/algoritms" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/algoritms" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/debug/deps/algoritms-9d51a125ff47dbe1.5nv2r94nsmh9rdhr311olxw04.rcgu.o" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/deps/algoritms-9d51a125ff47dbe1.5nv2r94nsmh9rdhr311olxw04.rcgu.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/debug/deps/algoritms-9d51a125ff47dbe1.bfdhannef5ykfzjuovk7z8dhq.rcgu.o" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/deps/algoritms-9d51a125ff47dbe1.bfdhannef5ykfzjuovk7z8dhq.rcgu.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/.rustc_info.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/CACHEDIR.TAG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/.cargo-lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/.fingerprint/algoritms-1f69975c26d061a3/bin-algoritms" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/.fingerprint/algoritms-1f69975c26d061a3/bin-algoritms.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/.fingerprint/algoritms-1f69975c26d061a3/invoked.timestamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/.fingerprint/algoritms-9d51a125ff47dbe1/bin-algoritms" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/.fingerprint/algoritms-9d51a125ff47dbe1/bin-algoritms.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/.fingerprint/algoritms-9d51a125ff47dbe1/dep-bin-algoritms" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/.fingerprint/algoritms-9d51a125ff47dbe1/invoked.timestamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/.fingerprint/algoritms-f4ea81fec0a1996d/invoked.timestamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/.fingerprint/algoritms-f4ea81fec0a1996d/test-bin-algoritms" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/.fingerprint/algoritms-f4ea81fec0a1996d/test-bin-algoritms.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/algoritms" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/algoritms.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/deps/algoritms-9d51a125ff47dbe1.04cl37fql0qm3bea5hukfdk98.rcgu.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/deps/algoritms-9d51a125ff47dbe1.23bx8pl2sk3tjchq9s0cexw3l.rcgu.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/deps/algoritms-9d51a125ff47dbe1.2ffpqhtpcw2xi5puawbr4s60u.rcgu.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/deps/algoritms-9d51a125ff47dbe1.2hygbkx4umb98rbc40da1l11l.rcgu.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/deps/algoritms-9d51a125ff47dbe1.309emfdpnlixqj3ztkex7diac.rcgu.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/deps/algoritms-9d51a125ff47dbe1.5f29eob377k6wy122r4ifad4d.rcgu.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/deps/algoritms-9d51a125ff47dbe1.5nv2r94nsmh9rdhr311olxw04.rcgu.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/deps/algoritms-9d51a125ff47dbe1.5t0czodmzr54mt5c9fj87w3dj.rcgu.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/deps/algoritms-9d51a125ff47dbe1.60frn51sn224ql6tmkz43uo7s.rcgu.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/deps/algoritms-9d51a125ff47dbe1.6dtf9sntyjql6w6m53ozux21k.rcgu.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/deps/algoritms-9d51a125ff47dbe1.6v9r46fll1fv86c5m6pk35uaz.rcgu.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/deps/algoritms-9d51a125ff47dbe1.71ty72ddl9gpghk9l49nxknvu.rcgu.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/deps/algoritms-9d51a125ff47dbe1.98ixgr2mp4r75v013xjfgni7d.rcgu.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/deps/algoritms-9d51a125ff47dbe1.9hshnlg7n0y5sf2usor718k8t.rcgu.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/deps/algoritms-9d51a125ff47dbe1.9w0cicbcr5c5n43f4ryze1mtw.rcgu.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/deps/algoritms-9d51a125ff47dbe1.amy9wg55a4v6hssa23fr4jon5.rcgu.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/deps/algoritms-9d51a125ff47dbe1.bfdhannef5ykfzjuovk7z8dhq.rcgu.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/deps/algoritms-9d51a125ff47dbe1.bs6hn5cjmt5rhk9c1dl21mjv9.rcgu.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/deps/algoritms-9d51a125ff47dbe1.cp5bew5luc66rd03n9hxw06qp.rcgu.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/deps/algoritms-9d51a125ff47dbe1.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/deps/algoritms-9d51a125ff47dbe1.dsex1d40mecnp03w8svr6u70i.rcgu.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book_learn/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/../book_learn/src/main.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book_learn/target/.rustc_info.json" beforeDir="false" afterPath="$PROJECT_DIR$/../book_learn/target/.rustc_info.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book_learn/target/debug/.fingerprint/start-7864d35ceb32781b/dep-test-bin-start" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book_learn/target/debug/.fingerprint/start-7864d35ceb32781b/invoked.timestamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book_learn/target/debug/.fingerprint/start-7864d35ceb32781b/test-bin-start" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book_learn/target/debug/.fingerprint/start-7864d35ceb32781b/test-bin-start.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book_learn/target/debug/.fingerprint/start-abcd23e8cfb4c6fe/bin-start" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book_learn/target/debug/.fingerprint/start-abcd23e8cfb4c6fe/bin-start.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book_learn/target/debug/.fingerprint/start-abcd23e8cfb4c6fe/dep-bin-start" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book_learn/target/debug/.fingerprint/start-abcd23e8cfb4c6fe/invoked.timestamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book_learn/target/debug/deps/libstart-7864d35ceb32781b.rmeta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book_learn/target/debug/deps/libstart-abcd23e8cfb4c6fe.rmeta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book_learn/target/debug/deps/start-7864d35ceb32781b.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book_learn/target/debug/deps/start-abcd23e8cfb4c6fe.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book_learn/target/debug/incremental/start-2kfu0iw829c8b/s-h2xmk1h4iq-00wdyds-5r6qzrv5khatec3i1gcj1tuon/dep-graph.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book_learn/target/debug/incremental/start-2kfu0iw829c8b/s-h2xmk1h4iq-00wdyds-5r6qzrv5khatec3i1gcj1tuon/query-cache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book_learn/target/debug/incremental/start-2kfu0iw829c8b/s-h2xmk1h4iq-00wdyds-5r6qzrv5khatec3i1gcj1tuon/work-products.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book_learn/target/debug/incremental/start-2kfu0iw829c8b/s-h2xmk1h4iq-00wdyds.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book_learn/target/debug/incremental/start-33abus0mqqdsd/s-h2xmk1h4iq-0oco4iq-ctt1yubqljh84z4pqvcbe2pks/dep-graph.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book_learn/target/debug/incremental/start-33abus0mqqdsd/s-h2xmk1h4iq-0oco4iq-ctt1yubqljh84z4pqvcbe2pks/query-cache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book_learn/target/debug/incremental/start-33abus0mqqdsd/s-h2xmk1h4iq-0oco4iq-ctt1yubqljh84z4pqvcbe2pks/work-products.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book_learn/target/debug/incremental/start-33abus0mqqdsd/s-h2xmk1h4iq-0oco4iq.lock" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +123,7 @@
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.rust.reset.selective.auto.import&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/erroe/learn_rust/algoritms&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/erroe/tam_am&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -99,7 +155,7 @@
     </configuration>
   </component>
   <component name="RustProjectSettings">
-    <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+    <option name="toolchainHomeDirectory" value="/snap/bin" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -114,6 +170,10 @@
       <workItem from="1734978544733" duration="4215000" />
       <workItem from="1735034786053" duration="5472000" />
       <workItem from="1735134589467" duration="7063000" />
+      <workItem from="1735212317506" duration="2296000" />
+      <workItem from="1735282590259" duration="739000" />
+      <workItem from="1735309262572" duration="5204000" />
+      <workItem from="1736159857498" duration="22000" />
     </task>
     <task id="LOCAL-00001" summary=" some start of sorting">
       <option name="closed" value="true" />
