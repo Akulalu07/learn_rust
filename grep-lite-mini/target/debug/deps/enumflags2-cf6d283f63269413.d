@@ -1,0 +1,11 @@
+/home/erroe/learn_rust/grep-lite-mini/target/debug/deps/libenumflags2-cf6d283f63269413.rmeta: /home/erroe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/enumflags2-0.7.10/src/lib.rs /home/erroe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/enumflags2-0.7.10/src/formatting.rs /home/erroe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/enumflags2-0.7.10/src/fallible.rs /home/erroe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/enumflags2-0.7.10/src/iter.rs /home/erroe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/enumflags2-0.7.10/src/const_api.rs
+
+/home/erroe/learn_rust/grep-lite-mini/target/debug/deps/libenumflags2-cf6d283f63269413.rlib: /home/erroe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/enumflags2-0.7.10/src/lib.rs /home/erroe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/enumflags2-0.7.10/src/formatting.rs /home/erroe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/enumflags2-0.7.10/src/fallible.rs /home/erroe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/enumflags2-0.7.10/src/iter.rs /home/erroe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/enumflags2-0.7.10/src/const_api.rs
+
+/home/erroe/learn_rust/grep-lite-mini/target/debug/deps/enumflags2-cf6d283f63269413.d: /home/erroe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/enumflags2-0.7.10/src/lib.rs /home/erroe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/enumflags2-0.7.10/src/formatting.rs /home/erroe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/enumflags2-0.7.10/src/fallible.rs /home/erroe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/enumflags2-0.7.10/src/iter.rs /home/erroe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/enumflags2-0.7.10/src/const_api.rs
+
+/home/erroe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/enumflags2-0.7.10/src/lib.rs:
+/home/erroe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/enumflags2-0.7.10/src/formatting.rs:
+/home/erroe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/enumflags2-0.7.10/src/fallible.rs:
+/home/erroe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/enumflags2-0.7.10/src/iter.rs:
+/home/erroe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/enumflags2-0.7.10/src/const_api.rs:
