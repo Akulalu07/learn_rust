@@ -90,6 +90,7 @@ fn main() -> Result<(), u8>{
     clear_terminal();
     let mut board = Game::new();
     let mut moves :u8 = 0;
+    board.render();
     loop {
         let (mut y,mut x) = input();
         while y>3 || y<1 || x>3 || x<1 || board.board[x-1][y-1] != 0{
