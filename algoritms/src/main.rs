@@ -1,5 +1,6 @@
 mod binsearch;
 mod sort;
+mod tree;
 use time;
 
 fn main() {

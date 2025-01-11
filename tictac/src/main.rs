@@ -63,26 +63,31 @@ impl Game {
     }
 }
 
-fn input() -> (usize,usize){
-    println!("x  y");
+fn input() -> (usize, usize) {
+    println!("Введите два числа (x y):");
     let mut input = String::new();
+    
     io::stdin()
         .read_line(&mut input)
-        .expect("Failed to read line");
+        .expect("Не удалось прочитать строку");
 
     let values: Vec<usize> = input
         .trim()
         .split_whitespace()
-        .map(|s| s.parse().expect("Please type a number!"))
+        .filter_map(|s| s.parse::<usize>().ok()) // Используем filter_map для безопасного парсинга
         .collect();
 
     if values.len() != 2 {
-        println!("Please input exactly two numbers.");
+        println!("Ошибка: Пожалуйста, введите ровно два числа.");
+        // Возвращаем значения по умолчанию или обрабатываем ошибку по-другому
+        return (0, 0); // Или можно использовать Result для более гибкой обработки
     }
-    (values[0],values[1])
+
+    (values[0], values[1])
 }
 
-fn main() -> Result<(), u8> {
+fn main() -> Result<(), u8>{
+    clear_terminal();
     let mut board = Game::new();
     let mut moves :u8 = 0;
     loop {
