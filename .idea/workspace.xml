@@ -13,9 +13,7 @@
     <cargoProject FILE="$PROJECT_DIR$/snake/Cargo.toml" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="92ccf8aa-4b0e-4204-b00e-bb440e1343e1" name="Changes" comment="aaaaaa">
-      <change beforePath="$PROJECT_DIR$/tictac/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/tictac/src/main.rs" afterDir="false" />
-    </list>
+    <list default="true" id="92ccf8aa-4b0e-4204-b00e-bb440e1343e1" name="Changes" comment="aaaaaa" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,18 +22,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Akulalu07"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Akulalu07&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "git@github.com:Akulalu07/learn_rust.git",
-    "accountId": "2708bc8b-7639-4a04-ae01-f1ddc4ac623a"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:Akulalu07/learn_rust.git&quot;,
+    &quot;accountId&quot;: &quot;2708bc8b-7639-4a04-ae01-f1ddc4ac623a&quot;
   }
-}]]></component>
+}</component>
   <component name="MacroExpansionManager">
     <option name="directoryName" value="uh0YpCox" />
   </component>
@@ -53,6 +51,7 @@
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.rust.reset.selective.auto.import": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
@@ -83,6 +82,7 @@
       <workItem from="1736160103812" duration="721000" />
       <workItem from="1736177689200" duration="77000" />
       <workItem from="1736447018360" duration="2916000" />
+      <workItem from="1736610550064" duration="13000" />
     </task>
     <task id="LOCAL-00001" summary="aaa">
       <option name="closed" value="true" />
