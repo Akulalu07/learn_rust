@@ -1,5 +1,3 @@
-mod ai;
-
 use std::cmp::PartialEq;
 use std::io;
 use std::process::Command;
@@ -13,36 +11,33 @@ pub struct Game {
     board: [[Symbol; 3]; 3],
     winner: Player,
 }
-enum Player{
+enum Player {
     Nil,
     First,
     Second,
 }
 
-
 #[derive(PartialEq, Copy, Clone)]
-enum Symbol{
+enum Symbol {
     Nil,
     Cross,
     Zero,
-
 }
 
-
-fn make_pl(some: Symbol) ->Player{
+fn make_pl(some: Symbol) -> Player {
     match some {
         Symbol::Cross => Player::First,
-        Symbol::Zero=> Player::Second,
-        Symbol::Nil => Player::Nil
+        Symbol::Zero => Player::Second,
+        Symbol::Nil => Player::Nil,
     }
 }
 impl Game {
     pub fn new() -> Self {
         Game {
             board: [
-                [Symbol::Nil, Symbol::Nil, Symbol::Nil,],
-                [Symbol::Nil, Symbol::Nil, Symbol::Nil,],
-                [Symbol::Nil, Symbol::Nil, Symbol::Nil,]
+                [Symbol::Nil, Symbol::Nil, Symbol::Nil],
+                [Symbol::Nil, Symbol::Nil, Symbol::Nil],
+                [Symbol::Nil, Symbol::Nil, Symbol::Nil],
             ],
             winner: Player::Nil,
         }
@@ -57,34 +52,39 @@ impl Game {
             self.winner = make_pl(board[0][2]);
         }
         for i in 0..=2 {
-            if board[i][0] == board[i][1] && board[i][2] == board[i][1] && board[i][0] != Symbol::Nil {
+            if board[i][0] == board[i][1]
+                && board[i][2] == board[i][1]
+                && board[i][0] != Symbol::Nil
+            {
                 self.winner = make_pl(board[i][0]);
             }
         }
         for j in 0..=2 {
-            if board[0][j] == board[1][j] && board[1][j] == board[2][j] && board[0][j] != Symbol::Nil {
+            if board[0][j] == board[1][j]
+                && board[1][j] == board[2][j]
+                && board[0][j] != Symbol::Nil
+            {
                 self.winner = make_pl(board[0][j]);
             }
         }
     }
-    pub fn make_move(&mut self, x: usize, y: usize, player: u8){
-
-        if player  == 1 {
+    pub fn make_move(&mut self, x: usize, y: usize, player: u8) {
+        if player == 1 {
             self.board[x][y] = Symbol::Cross;
-        }else{
+        } else {
             self.board[x][y] = Symbol::Zero;
         }
         self.check();
     }
-    pub fn render(&self){
+    pub fn render(&self) {
         clear_terminal();
         println!("-------------");
         for row in &self.board {
             for cell in row {
                 let symbol = match cell {
-                    Symbol::Nil => ' ', // Пустая клетка
+                    Symbol::Nil => ' ',   // Пустая клетка
                     Symbol::Cross => 'X', // Крестик
-                    Symbol::Zero => 'O', // Нолик
+                    Symbol::Zero => 'O',  // Нолик
                 };
                 print!("| {} ", symbol);
             }
@@ -97,7 +97,7 @@ impl Game {
 fn input() -> (usize, usize) {
     println!("Введите два числа (x y):");
     let mut input = String::new();
-    
+
     io::stdin()
         .read_line(&mut input)
         .expect("Не удалось прочитать строку");
@@ -117,18 +117,16 @@ fn input() -> (usize, usize) {
     (values[0], values[1])
 }
 
-
-
-fn main() -> Result<(), u8>{
+fn main() -> Result<(), u8> {
     clear_terminal();
     let mut board = Game::new();
-    let mut moves :u8 = 0;
+    let mut moves: u8 = 0;
     board.render();
     loop {
-        let (mut y,mut x) = input();
-        while y>3 || y<1 || x>3 || x<1 || board.board[x-1][y-1] !=Symbol::Nil{
+        let (mut y, mut x) = input();
+        while y > 3 || y < 1 || x > 3 || x < 1 || board.board[x - 1][y - 1] != Symbol::Nil {
             println!("Type a correct index");
-            (y,x) = input();
+            (y, x) = input();
         }
         if moves % 2 == 0 {
             board.make_move(x - 1, y - 1, 1);
@@ -138,15 +136,17 @@ fn main() -> Result<(), u8>{
         board.render();
 
         match board.winner {
-            Player::First =>  {
-                clear_terminal();
+            Player::First => {
+                //clear_terminal();
                 println!("Выиграли крестики");
-                return Ok::<(), u8>(());},
+                return Ok::<(), u8>(());
+            }
             Player::Second => {
-                clear_terminal();
+                //clear_terminal();
                 println!("Выиграли нолики");
-                return Ok(());},
-            Player::Nil => {},
+                return Ok(());
+            }
+            Player::Nil => {}
         }
         moves += 1;
         if moves == 9 {
@@ -155,4 +155,3 @@ fn main() -> Result<(), u8>{
         }
     }
 }
-

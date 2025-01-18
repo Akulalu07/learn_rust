@@ -1,0 +1,11 @@
+/home/erroe/learn_rust/book_learn/target/debug/deps/libtower_layer-dccf07d8b52ea2c9.rmeta: /home/erroe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tower-layer-0.3.3/src/lib.rs /home/erroe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tower-layer-0.3.3/src/identity.rs /home/erroe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tower-layer-0.3.3/src/layer_fn.rs /home/erroe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tower-layer-0.3.3/src/stack.rs /home/erroe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tower-layer-0.3.3/src/tuple.rs
+
+/home/erroe/learn_rust/book_learn/target/debug/deps/libtower_layer-dccf07d8b52ea2c9.rlib: /home/erroe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tower-layer-0.3.3/src/lib.rs /home/erroe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tower-layer-0.3.3/src/identity.rs /home/erroe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tower-layer-0.3.3/src/layer_fn.rs /home/erroe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tower-layer-0.3.3/src/stack.rs /home/erroe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tower-layer-0.3.3/src/tuple.rs
+
+/home/erroe/learn_rust/book_learn/target/debug/deps/tower_layer-dccf07d8b52ea2c9.d: /home/erroe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tower-layer-0.3.3/src/lib.rs /home/erroe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tower-layer-0.3.3/src/identity.rs /home/erroe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tower-layer-0.3.3/src/layer_fn.rs /home/erroe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tower-layer-0.3.3/src/stack.rs /home/erroe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tower-layer-0.3.3/src/tuple.rs
+
+/home/erroe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tower-layer-0.3.3/src/lib.rs:
+/home/erroe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tower-layer-0.3.3/src/identity.rs:
+/home/erroe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tower-layer-0.3.3/src/layer_fn.rs:
+/home/erroe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tower-layer-0.3.3/src/stack.rs:
+/home/erroe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tower-layer-0.3.3/src/tuple.rs:

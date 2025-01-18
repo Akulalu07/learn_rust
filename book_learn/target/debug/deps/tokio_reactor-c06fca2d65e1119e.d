@@ -1,0 +1,11 @@
+/home/erroe/learn_rust/book_learn/target/debug/deps/libtokio_reactor-c06fca2d65e1119e.rmeta: /home/erroe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-reactor-0.1.12/src/lib.rs /home/erroe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-reactor-0.1.12/src/background.rs /home/erroe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-reactor-0.1.12/src/poll_evented.rs /home/erroe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-reactor-0.1.12/src/registration.rs /home/erroe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-reactor-0.1.12/src/sharded_rwlock.rs
+
+/home/erroe/learn_rust/book_learn/target/debug/deps/libtokio_reactor-c06fca2d65e1119e.rlib: /home/erroe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-reactor-0.1.12/src/lib.rs /home/erroe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-reactor-0.1.12/src/background.rs /home/erroe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-reactor-0.1.12/src/poll_evented.rs /home/erroe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-reactor-0.1.12/src/registration.rs /home/erroe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-reactor-0.1.12/src/sharded_rwlock.rs
+
+/home/erroe/learn_rust/book_learn/target/debug/deps/tokio_reactor-c06fca2d65e1119e.d: /home/erroe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-reactor-0.1.12/src/lib.rs /home/erroe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-reactor-0.1.12/src/background.rs /home/erroe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-reactor-0.1.12/src/poll_evented.rs /home/erroe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-reactor-0.1.12/src/registration.rs /home/erroe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-reactor-0.1.12/src/sharded_rwlock.rs
+
+/home/erroe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-reactor-0.1.12/src/lib.rs:
+/home/erroe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-reactor-0.1.12/src/background.rs:
+/home/erroe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-reactor-0.1.12/src/poll_evented.rs:
+/home/erroe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-reactor-0.1.12/src/registration.rs:
+/home/erroe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-reactor-0.1.12/src/sharded_rwlock.rs:

@@ -1,0 +1,12 @@
+/home/erroe/learn_rust/book_learn/target/debug/deps/libcookie-88b96d46d550fa1f.rmeta: /home/erroe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.12.0/src/lib.rs /home/erroe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.12.0/src/builder.rs /home/erroe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.12.0/src/parse.rs /home/erroe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.12.0/src/jar.rs /home/erroe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.12.0/src/delta.rs /home/erroe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.12.0/src/draft.rs
+
+/home/erroe/learn_rust/book_learn/target/debug/deps/libcookie-88b96d46d550fa1f.rlib: /home/erroe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.12.0/src/lib.rs /home/erroe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.12.0/src/builder.rs /home/erroe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.12.0/src/parse.rs /home/erroe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.12.0/src/jar.rs /home/erroe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.12.0/src/delta.rs /home/erroe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.12.0/src/draft.rs
+
+/home/erroe/learn_rust/book_learn/target/debug/deps/cookie-88b96d46d550fa1f.d: /home/erroe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.12.0/src/lib.rs /home/erroe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.12.0/src/builder.rs /home/erroe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.12.0/src/parse.rs /home/erroe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.12.0/src/jar.rs /home/erroe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.12.0/src/delta.rs /home/erroe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.12.0/src/draft.rs
+
+/home/erroe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.12.0/src/lib.rs:
+/home/erroe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.12.0/src/builder.rs:
+/home/erroe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.12.0/src/parse.rs:
+/home/erroe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.12.0/src/jar.rs:
+/home/erroe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.12.0/src/delta.rs:
+/home/erroe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.12.0/src/draft.rs:
